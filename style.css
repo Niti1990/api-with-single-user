@@ -1,0 +1,15 @@
+.singleUser {
+	background-color: antiquewhite;
+	border: 3px solid black;
+	height: 400px;
+	width: 500px;
+	text-align: center;
+}
+.multipleUser {
+	background-color: antiquewhite;
+	border: 3px solid black;
+	height: 700px;
+	width: 500px;
+	margin-top: 20px;
+	text-align: center;
+}
